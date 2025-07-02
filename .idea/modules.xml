@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HOMEWORK/HOMEWORK.iml" filepath="$PROJECT_DIR$/HOMEWORK/HOMEWORK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Intellij IDEA-workspace.iml" filepath="$PROJECT_DIR$/.idea/Intellij IDEA-workspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/STUDY/STUDY.iml" filepath="$PROJECT_DIR$/STUDY/STUDY.iml" />
+    </modules>
+  </component>
+</project>
