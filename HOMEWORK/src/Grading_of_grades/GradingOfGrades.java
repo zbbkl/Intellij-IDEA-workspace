@@ -7,7 +7,7 @@ public class GradingOfGrades {
         while (!scanner.hasNextDouble()) {
             System.out.println("错误：请输入有效的数字！");
             System.out.print("请重新输入学生考试成绩（0-100分）：");
-            scanner.next();
+            scanner.next(); 
         }
         double grades=scanner.nextDouble();
             if (grades >= 0 && grades <= 100) {
