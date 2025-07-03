@@ -28,7 +28,7 @@ public class VehicleDemo {
         Vehicle vehicle1 = new Car("本田", 4);
         Vehicle vehicle2 = new Bicycle("上海", "公路");
         Vehicle vehicle3 =  new Car("特斯拉", 5);
-        Vehicle vehicle4 =  new Bicycle("凤凰", "城市");
+        Vehicle vehicle4 =  new Bicycle("bike", "城市");
 
 
     }
